@@ -60,6 +60,7 @@ p {
   margin-left: -80px;
   font-size: 30px;
 }
+/* Jumping Frog Animation*/
 .bounce {
   position:fixed;
   -webkit-animation:bounce 1s infinite;
