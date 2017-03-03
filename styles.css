@@ -1,3 +1,40 @@
+  /* MOBILE DEVICES */
+
+  /* iPhone Retina */
+  @media only screen and (min-width : 320px){ 
+  }
+  /* Extra Small, Phones */
+  @media only screen and (min-width : 480px){
+  }
+  /* Small, Tablets */
+  @media only screen and (min-width : 768px){
+  }
+  /* Medium, Desktops */
+  @media only screen and (min-width : 992px){
+  }
+  /* Large, Wide Screens */
+  @media only screen and (min-width : 1200px){
+  }
+
+  /* NON-MOBILE DEVICES */
+
+  /* Large, Wide Screens */
+  @media only screen and (max-width : 1200px){
+
+  }
+  /* Medium, Desktops */
+  @media only screen and (max-width : 992px){
+  }
+  /* Small, Tablets */
+  @media only screen and (max-width : 768px){
+  }
+  /* Extra SmalL, Phones */
+  @media only screen and (max-width : 480px){
+  }
+  /* iPhone Retina */
+  @media only screen and (max-width : 320px){  
+  }
+
 * {
   color: black;
 }
